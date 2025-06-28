@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksavcoreui_free_react_admin_template=self.webpackChunksavcoreui_free_react_admin_template||[]).push([[749],{31749:(e,t,a)=>{a.r(t),a.d(t,{default:()=>n});var c=a(65043),l=a(70579);const n=function(){const[e,t]=(0,c.useState)("Welcome to my React page!");return(0,l.jsxs)("div",{style:{padding:"20px",fontFamily:"Arial"},children:[(0,l.jsx)("h1",{children:"Hello, React! dashboard"}),(0,l.jsx)("p",{children:e}),(0,l.jsx)("button",{onClick:()=>{t("You clicked the button!")},children:"Click Me"})]})}}}]);
+//# sourceMappingURL=749.5cdc647a.chunk.js.map

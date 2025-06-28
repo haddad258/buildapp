@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[94],{56713:(e,t,r)=>{r.r(t),r.d(t,{default:()=>_});r(65043);var c=r(70579);const _=e=>{let{showCompleted:t}=e;return(0,c.jsxs)("div",{children:["Show completed LazyTest: ",t?"Yes":"No"]})}}}]);
-//# sourceMappingURL=94.05389af1.chunk.js.map
